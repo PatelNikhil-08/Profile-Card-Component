@@ -33,7 +33,7 @@ body{
 .card{
     width: 350px;
     height: 375px;
-    background-image: url(../images/bg-pattern-card.svg);
+    background-image: url(images/bg-pattern-card.svg);
     background-color: white; 
     background-position: top; 
     background-repeat: no-repeat;
